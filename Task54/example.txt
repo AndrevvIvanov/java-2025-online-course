@@ -1,0 +1,6 @@
+12345
+65.234
+true
+test_text
+test_text2
+123456
