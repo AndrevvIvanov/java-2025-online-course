@@ -5,8 +5,8 @@ javac Huffman.java
 
 Чтобы закодировать файл используйте:
 
-java Huffman encode <input file name> <output file name>
+java Huffman encode \<input file name\> \<output file name\>
 
 Чтобы декодировать файл используйте:
 
-java Huffman decode <input file name> <output file name>
+java Huffman decode \<input file name\> \<output file name\>
